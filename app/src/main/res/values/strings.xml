@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Trivia_App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="rules">Rules</string>
+    <string name="quiz">Quiz</string>
+    <string name="home">Home</string>
+    <string name="_0_10">0/10</string>
+    <string name="question">Question</string>
+    <string name="option1">Option1</string>
+    <string name="option2">Option2</string>
+    <string name="option3">Option3</string>
+    <string name="option4">Option4</string>
+    <string name="result">Result</string>
+    <string name="score">Score</string>
+    <string name="back_to_menu">Back To Menu</string>
+    <string name="rules_yet_to_be_decided">Rules yet to be decided</string>
+</resources>
